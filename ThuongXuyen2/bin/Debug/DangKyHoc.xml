@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DangKyLamThem>
+  <NgayLamViec Ngay="15/08/2003">
+  </NgayLamViec>
+  <NgayLamViec Ngay="15w">
+  </NgayLamViec>
+  <NgayLamViec Ngay="15w3">
+  </NgayLamViec>
+  <NgayLamViec Ngay="15w3333">
+    <NhanVien Ma="w33">
+      <LoaiLamThem>90%</LoaiLamThem>
+      <SoGio>5</SoGio>
+      <TrangThai>tt</TrangThai>
+    </NhanVien>
+  </NgayLamViec>
+  <NgayLamViec Ngay="15w3222">
+    <NhanVien Ma="w33">
+      <LoaiLamThem>90%</LoaiLamThem>
+      <SoGio>5</SoGio>
+      <TrangThai>tt</TrangThai>
+    </NhanVien>
+  </NgayLamViec>
+</DangKyLamThem>
